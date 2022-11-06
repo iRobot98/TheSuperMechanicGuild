@@ -1,0 +1,87 @@
+notes:
+    1. Site has 3 functions:
+        - Sacco for storing and borrowing/lending money
+            -> internal currency equivalent (Mechanicum coins)
+            -> services:
+                - periodic contribution
+                - ledger and balance sheet
+                - borrow money (Credit Rating Tracker)
+                - lending money (Personal Digital Wallet/Bank)
+                - get paid for storage/availability 
+        - Communication platform for mechanics to exchange ideas:
+            -> Twitter-Facebook-Discord merge:
+                - Twitter:
+                    1. public speaking space everyone has unmediated access to;
+                    2. short messages (500 chars), with comments, retweets, screenshots, reactions;
+                        - memes, pics, vids
+                    3. able to be shared offsite (ie digital history)
+                    4. verification and honour system,
+                - Facebook/Meta:
+                    1. Personal blog, with limited access control, friendships and groups
+                    2. Personal email and comm routes, 
+                    3. personal ecommerce shop,
+                    4. digital-verse platform/connection,
+                    - Snapchat:
+                        1. real life ID,
+                        2. Digital anonymous subaccounts are available,
+                        3. video sharing platform,
+                - Discord:
+                    1. form groups and servers, decentralised organisation,
+                    2. organise independently and supervise internally,
+                    3. bots and API for automation and integration/extension
+            -> Reddit-Wiki-Slack merge:
+                - general Wiki for collecting/agglomerating experience and knowledge:
+                    -> Gitting/History-tracker,
+                    - shows latest version, and version history/forking tree
+                - Reddit honour system (by proving competence accrued by participation and contribution),
+                - Citation system:
+                    - get honour points for contribution, ie upvotes and downvotes,
+                    - get honour points for referrals/recommendations by other members,
+                    - get honour points for volume of transactions on account,
+                    - get honour points for citations (and citation inheritance to the 5th generation),
+                - honour points are a licensing source-of-income:
+                    - share ideas, and when used in a copyrighted product, earn a small commision,
+                    - system acts as a licensing tracker,
+            -> 'Job Site'-'National Assembly' merge:
+                - National Assembly:
+                    1. polling system, 
+                    2. idea-sharing system,
+                    3. 3-tier organisation:
+                        - tier 1: Presidential Board (and Cabinet),
+                        - tier 2: Guild Assembly (Chair, Speaker, Secretariat, Members/Representatives),
+                        - tier 3: 
+                - Job Site:
+            -> Blockchain/Crypto-network:
+                - Public ID and Private ID:
+                    - Public ID:
+                        1. Anonymous tag/code-name with hash number username,
+                        2. Cash/Crypto transactions can be done directly to/through Anonymous/Public ID,
+                        3. Public ID can act as a pseudo legal identity - a legal body under "The SuperMechanic Guild",
+                        4. verified public personna without revealing the true identity of the anonymous holder,
+                    - Private ID:
+                        1. Personal ID, need a real/full legal identity, is verified and account is maintained by cash subscription,
+                        2. To join the Sacco:
+                            responsibilities:
+                            - need a personal history of mechanic work,
+                            - progress tracking (completed projects),
+                            - transact through the Public ID but cash is credited private ID,
+                            - cash subscription,
+                            - participate in group
+                        3. personal responsibility to maintain accountability (by the Sacco),
+                        4. real world agent/avatar for digital identity, or source/substance behind digital identity,
+                        5. the private identity is the individual who enjoys the benefits of participating in the Guild society/economy
+    2. The SuperMechanic Pathway:
+        - Branches:
+            1. Pugilist Mechanic:
+                (contact combat mechanic),
+            2. Cannon Mechanic:
+                (artillery style mechanic),
+            3. Technician Mechanic:
+                (focused on knowledge and practice of general principles),
+                - Branches:
+                    1. Heavy Machinery Mechanic:
+                        (focus on large machines/production-efficiency),
+                    2. Quantum Mechanic:
+                        (focus on energy efficiency/power),
+                    3. Virtual Mechanic:
+                        (focus on virtual/digital/control technology),

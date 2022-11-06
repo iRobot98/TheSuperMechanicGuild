@@ -1,0 +1,75 @@
+Guild Guide: An easy drag-and-drop template for guild rules
+A quick pull-and-drop template to start expanding upon your guild rules so that you don't have to start from nothing.
+8
+  
+by Eliot Lefebvre
+
+This one's for the guild officers. Just the guild officers. Everyone else can leave now, all right?
+
+No, really. We're down to just the officers, right? Great, we can all say this:
+
+Writing guild rules suuuuuuucks.
+
+It really does. No one likes doing it. You don't like doing it for your guild, I don't like doing it for my guild, no one likes doing it. But it's also important. And that's why so many guild rules wind up either being either nonexistent or just a loosely-worded set of recommendations that no one can enforce.
+
+That's why I'm going to do you a solid today. Yes, you, the person reading right now. I wrote a while back about some of the basic rules that every guild is going to need, but today I'm going to write a quick template that you can drag-and-drop for guild rules so you don't even need to think about it that much! Read on, get your basic rules in place, and put in the fine details where you need. So let's get started.
+
+Text from here on out that is italicized is meant as commentary and clarification; the rest of it can be picked and dropped.
+
+Guild Rules Template:
+Basic Behavior Rules
+
+Here in [GUILD NAME], our primary rule is that we want everyone to have fun and enjoy themselves while playing the game. As such, our cardinal rules concern behavior, first and foremost. Violating these rules will prompt a discussion with an officer; repeated violations can lead to removal from the guild.
+
+    All guild members are expected to be respectful and polite when dealing with other members of the community. Griefing, interfering with other players, and otherwise being a jerk is not permitted.
+    Humor is welcome! If someone is offended by a joke, apologize and move on; if you're offended, state that and then move on. There's no need to go into depth on the matter.
+    The following topics are off-limits in general guild chat: [TOPICS HERE]
+
+    This is an important thing to consider; if there's a discussion that you just know will go to a bad place or that you don't even want to entertain, talk about it here. Likely candidates include spoilers for recent films/games/shows, major political issues, and whether the toilet paper roll should be under or over.
+    Adult language in guild chat is [PERMITTED/NOT PERMITTED/DISCOURAGED].
+    All players are expected to treat officers and other guild members with respect and politeness.
+
+These rules are simply guidelines; it's possible that situations may develop in play which require more specific rules. In the event that an officer makes a rule for a time that's more restrictive than these rules, go by that rule until further notice; if we expect the rule to be in place for an extended period of time, we'll add it in here.
+
+Attendance
+
+All players are expected to show up before guild events at least ten minutes before the designated start time. That doesn't mean you need to be in the right spot and waiting for ten minutes, but you should be online and have any and all prerequisite content completed beforehand.
+
+In the event that you fail to complete prerequisite content before an event, the organizer and/or officers have the right to remove you from the group and bring someone else. Similarly, if you are more than ten minutes late to a guild event, the organizer and/or officers have the right to start the event without you and not permit you to join after the fact. Consistently signing up for events and showing up late is considered a violation of guild rules.
+
+Non-members are [ALLOWED/NOT ALLOWED] to attend guild events.
+
+Members are expected to be online at least once per [WEEK/MONTH] for at least a brief period. If circumstances will require you to be offline for an extended period of time, notify an officer ahead of time if you can. Without notifications, older characters will be removed from the guild for inactivity.
+
+Our main focus in this guild is on [FOCUS]. That means that the majority of events should correspond with that. While other events are more than welcome, the events that we focus upon will take precedence, and in the event that someone is consistently only making and attending events contrary to our focus we may start canceling those events or discussing the matter with the player in question.
+
+Officers
+
+Your officers are [OFFICER ROSTER FOLLOWS].
+
+A guild's list of officers should always be clearly and obviously listed if you have any number of members who are not constantly speaking to one another outside of the game proper. If your guild is five friends in constant contact with one another, you're probably fine; if you all interact primarily in and about the game, however, you should make sure that everyone can immediately find the list of officers.
+
+Officers are appointed based upon experience, ability, and trustworthiness over time. While officers have authority over other guild members, they are not "superior" to other members and should not be considered as such. The officers are subject to the same rules as other members.
+
+If you have a problem with one of the officers, please report it to another officer promptly. This includes situations wherein an officer makes you uncomfortable or appears to be violating the rules of the guild for any reason. We strive for transparency and accountability, but we don't always succeed; let us know if we make mistakes so we can correct them in the future.
+
+Punishments
+
+Violating the rules of the guild is something that we take seriously, as it can lead to hard feelings and damage overall group cohesion. In the event that someone is violating the rules of the guild, we will investigate the matter and take appropriate action, whether the player in question is an officer or not.
+
+In the event that someone is behaving contrary to the rules, the first step is a discussion with the player in question and a notification that there is a problem. No further action will be taken, and if nothing else happens within a month the entire thing can be forgotten.
+
+A separate or continuing incident requires further steps. Someone who is consistently behaving contrary to the guild rules will be assigned a probationary rank with limited privileges for a [WEEK/MONTH]'s time pending any further behavior violations. Further behavior issues will be dealt with via removal from the guild.
+
+If someone is removed from the guild due to inactivity, they may reapply and rejoin the guild with no penalty whatsoever. If someone is removed from the guild due to behavior violations, they will not be permitted to reapply in the future.
+
+It's important to keep in place the idea that players who screw up consistently enough to get removed don't get to just walk back in after some time has passed and the heat of the moment is over. Gone needs to be gone.
+/End template/
+
+Yes, there are more places to put rules, there's more space to expand, but this is enough of a foundation that you can drag-and-drop most of the rules into your guild no matter what. But what about applications? We'll be covering that in further templates, so you can keep your guild running and operating smoothly.
+
+Without, you know, having to deal with all of the questions and such yourself. Like I said, writing those things out sucks.
+
+Enjoy the Guild Guide column? Keep up to date with our new Twitter account @GuildGuide!
+
+link: https://www.gameskinny.com/br4ke/guild-guide-an-easy-drag-and-drop-template-for-guild-rules
