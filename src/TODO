@@ -1,0 +1,13 @@
+1. Create each aspect/subdomain as an independent app:
+    1. "The Mechanicum" common platform,
+    2. "The Mechanicum Assembly" for political organisation,
+    3. "The Mechanicum Sacco" for banking and financial services,
+    4. "The Mechanicum Market" for eCommerce,
+    5. "The Mechanicum University" for coherent education/knowledge transfer,
+    6. "The Mechanicum Wiki" for idea and interest transfer,
+    7. "The Mechanicum Discord" for communication mediation,
+
+2. Create a coherent subsystem:
+    1. API
+    2. Database
+    3. Transaction Platform (digital currency network)
