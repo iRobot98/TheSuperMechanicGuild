@@ -1,0 +1,36 @@
+Ideas:
+    1. Sacco for storing and borrowing/lending money
+        -> internal currency equivalent (Mechanicum coins)
+        -> services:
+            - periodic contribution
+            - ledger and balance sheet
+            - borrow money (Credit Rating Tracker)
+                -> borrow anonymously, with the system acting as mediator
+            - lending money (Personal Digital Wallet/Bank)
+                -> lend anonymously, with the system acting as mediator
+            - get paid for:
+                1. offering decentralised hosting share,
+                2. offering lending service (ie, lend cash through app and earn cash),
+            - market for creating/tokenizing physical/financial assets and securitization into financial instruments to be traded on internal marketplace
+    
+    2. Blockchain/Crypto-network:
+        - Public ID and Private ID:
+            - Public ID:
+                1. Anonymous tag/code-name with hash number username,
+                2. Cash/Crypto transactions can be done directly to/through Anonymous/Public ID,
+                3. Public ID can act as a pseudo legal identity - a legal body under "The SuperMechanic Guild",
+                4. verified public personna without revealing the true identity of the anonymous holder,
+            - Private ID:
+                1. Personal ID, need a real/full legal identity, is verified and account is maintained by cash subscription,
+                2. To join the Sacco:
+                    responsibilities:
+                    - need a personal history of Mechanic work,
+                    - progress tracking (completed projects),
+                    - transact through the Public ID but cash is credited private ID,
+                    - cash subscription,
+                    - participate in group
+                3. personal responsibility to maintain accountability (by the Sacco),
+                4. real world agent/avatar for digital identity, or source/substance behind digital identity,
+                5. the private identity is the individual who enjoys the benefits
+    
+    3. Internal Digital Currency
