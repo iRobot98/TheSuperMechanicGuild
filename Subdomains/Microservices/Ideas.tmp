@@ -1,0 +1,23 @@
+Ideas:
+    1. Define the branches/[micro]services of the Network
+
+    2. Cooordinate and Manage the Network
+
+    3. Structure:
+        - Message broker [Event tracker]
+        - Load Bearing broker [Traffic tracker]
+        - Error Handling broker [Error tracker]
+        - Database Handling broker [db traffic tracker]
+        - API Handling broker [internal traffic tracker]
+
+        services:
+        - The_Mechanicum web server
+        - The_Mechanicum_Assembly web server
+        - The_Mechanicum_DB web server
+        - The_Mechanicum_Executive web server
+        - The_Mechanicum_Discord web server
+        - The_Mechanicum_Market web server
+        - The_Mechanicum_Sacco web server
+        - The_Mechanicum_University web server
+        - The_Mechanicum_Wiki web server
+
